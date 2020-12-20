@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Stellar Growth",
+"productVersion": "0.1",
+"dataUrl": "Finished Game.data.unityweb",
+"wasmCodeUrl": "Finished Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Finished Game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
